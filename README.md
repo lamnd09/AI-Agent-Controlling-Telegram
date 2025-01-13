@@ -4,8 +4,9 @@ An advanced AI-powered assistant for Telegram that integrates with Notion to man
 
 ---
 
-Video Demo:
-![](media/video_demo.mov)
+
+[Video Demo (media/video_demo.mp4))](media/video_demo.mp4):
+![img](media/video_demo.mp4)
 
 **Table of Contents**
 
@@ -185,8 +186,6 @@ ollama pull llama3
 * The bot sends responses back to the user via Telegram.
 
 ![image](media/telegram-ai-agent.png)
-
-
 
 ---
 
