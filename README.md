@@ -99,7 +99,7 @@ project/
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/ai-telegram-assistant.git
+git clone https://github.com/lamnd09/AI-Agent-Controlling-Telegram.git
 cd ai-telegram-assistant
 ```
 
